@@ -1,0 +1,6 @@
+[package]
+name = "advent-rust"
+version = "0.1.0"
+authors = ["Nikos Filippakis <nikolaos.filippakis@cern.ch>"]
+
+[dependencies]
