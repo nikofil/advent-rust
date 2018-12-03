@@ -3,4 +3,8 @@ name = "advent-rust"
 version = "0.1.0"
 authors = ["Nikos Filippakis <nikolaos.filippakis@cern.ch>"]
 
+[lib]
+name="advent_lib"
+path="src/lib.rs"
+
 [dependencies]
