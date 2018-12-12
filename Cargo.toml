@@ -8,3 +8,4 @@ name="advent_lib"
 path="src/lib.rs"
 
 [dependencies]
+regex = "1.1.0"
